@@ -28,6 +28,7 @@
 
 .item {
     /*height: 85vh;*/
+    opacity: 0.9;
 }
 
 .info {
@@ -73,4 +74,40 @@
     margin-top: -20px;
     margin-right: 15px;
     /* float: left; */
+}
+
+.motto {
+    color: #FFFFFF;
+    font-size: 76px;
+    font-weight: 600;
+    text-align: center;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
+    text-transform: uppercase;
+    top: 150px;
+    z-index: 3;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    width: 306px;
+    height: 0;
+}
+
+.content-center {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 0 15px;
+    color: #FFFFFF;
+    width: 100%;
+    max-width: 880px;
+}
+
+.brand .h1-seo {
+    /* font-size: 2.8em;
+    text-transform: uppercase;
+    font-weight: 300; */
 }
