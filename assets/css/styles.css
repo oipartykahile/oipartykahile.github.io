@@ -91,6 +91,10 @@
     max-width: 880px;
 }
 
+.short-logo {
+	display: none;
+}
+
 @media (max-width: 995px) {
     .content-center > h1 {
         font-size: 40px !important;
@@ -148,5 +152,9 @@
     .responsive-logo {
         display: none;
     }
+
+	.short-logo {
+		display: block;
+	}
 
 }
