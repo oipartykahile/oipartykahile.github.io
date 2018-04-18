@@ -9,7 +9,7 @@
 .parallax-img1 {
     background-image: url("../img/pics/20140124-_NUP3788_9640.jpg");
     min-height: 400px;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .parallax-img2 {
@@ -19,7 +19,8 @@
 }
 
 .parallax-text {
-    color: #FFFFFF
+    color: #FFFFFF;
+    font-weight: 400;
 }
 
 .img-rounded {
