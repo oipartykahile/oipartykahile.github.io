@@ -132,7 +132,7 @@
         padding: 0px;
         top: 45%;
     }
-    
+
     .content-center > h1 {
         font-size: 25px !important;
     }
@@ -142,6 +142,10 @@
     }
 
     .content-center > img {
+        display: none;
+    }
+
+    .responsive-logo {
         display: none;
     }
 
