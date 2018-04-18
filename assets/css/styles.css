@@ -108,6 +108,10 @@
 }
 
 @media (max-width: 670px) {
+    .content-center {
+        padding: 0px;
+        top: 45%;
+    }
     .content-center > h1 {
         font-size: 30px !important;
     }
@@ -124,6 +128,11 @@
 }
 
 @media (max-width: 455px) {
+    .content-center {
+        padding: 0px;
+        top: 45%;
+    }
+    
     .content-center > h1 {
         font-size: 25px !important;
     }
