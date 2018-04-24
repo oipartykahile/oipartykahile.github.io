@@ -7,13 +7,13 @@
 }
 
 .parallax-img1 {
-    background-image: url("../img/pics/20140124-_NUP3788_9640.jpg");
+    background-image: url("../img/pics/c1.jpg");
     min-height: 400px;
     opacity: 0.9;
 }
 
 .parallax-img2 {
-    background-image: url("../img/pics/20140124-_NUP3788_9640.jpg");
+    background-image: url("../img/pics/c2.jpg");
     /* background-color: #33302f; */
     min-height: 400px;
     opacity: 0.9;
@@ -102,6 +102,10 @@
 
 .display-block {
     display: block;
+}
+
+.img-carousel {
+    margin-top: 8%;
 }
 
 @media (max-width: 995px) {
